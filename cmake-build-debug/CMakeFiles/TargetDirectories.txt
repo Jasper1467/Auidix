@@ -1,3 +1,0 @@
-/home/jasper/Programming/Audix/cmake-build-debug/CMakeFiles/Audix.dir
-/home/jasper/Programming/Audix/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jasper/Programming/Audix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
